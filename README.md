@@ -16,9 +16,9 @@ https://github.com/5p1K3-wq/creating_avatars.git
 `cd creating_avatars/`
 
 3. **Run script**
-'''bash
+```bash
 python3 creating_avatars/main.py
-'''
+```
 
 ## Built With
 
